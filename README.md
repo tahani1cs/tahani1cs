@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tahani
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning Laravel and anfular
+- 🌱 I’m currently learning Laravel and angular
 - 💞️ I’m looking to collaborate on Laravel and angular
 
 <!---
